@@ -2,6 +2,14 @@
   "name": "nodeapp",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/gnanasai122/devpractice#readme",
+  "bugs": {
+    "url": "https://github.com/gnanasai122/devpractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnanasai122/devpractice.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
